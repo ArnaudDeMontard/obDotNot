@@ -9,7 +9,6 @@
 //µ Arnaud * 23/07/2019 * gestion de OB FIXER TABLEAU
 //© Arnaud * 17/07/2019 
 //  partage : https://forums.4d.com/Post/FR/30700090/0/0/
-//cf MACRO_noSearchSingleIfNecessary 
 
 GET MACRO PARAMETER:C997(Highlighted method text:K5:18;$find_t)
 
