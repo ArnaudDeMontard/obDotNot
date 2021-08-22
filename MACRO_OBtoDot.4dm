@@ -1,5 +1,5 @@
 //%attributes = {"lang":"en"} comment added and reserved by 4D.
-//MACRO_OBversDot 
+//MACRO_OBtoDot 
 //macro pour remplacer les OB FIXER et OB lire 
 //  par la notation à point
 //Conserve la version précédente en commentaires
