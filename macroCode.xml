@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE macros SYSTEM "http://www.4d.com/dtd/2007/macros.dtd" >
 <macros>
-  <macro name="OBversDot/Œ" version="2">
+  <macro name="OBtoDot/Œ" version="2">
   	<!-- raccourci /Œ = alt+cmde+o -->
-		<text><method>MACRO_OBversDot</method></text>
+		<text><method>MACRO_OBtoDot</method></text>
 	</macro>
 </macros>
